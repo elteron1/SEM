@@ -1,2 +1,1 @@
 # SEM
-Smart energy meter
