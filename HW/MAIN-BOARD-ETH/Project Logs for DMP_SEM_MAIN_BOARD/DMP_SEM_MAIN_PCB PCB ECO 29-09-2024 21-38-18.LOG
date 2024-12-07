@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetC18_1 Pin=U5-1
+Removed Pin From Net: NetName=NetC19_1 Pin=U5-2
+Removed Pin From Net: NetName=EVENT Pin=U5-49
+Removed Pin From Net: NetName=ZCD Pin=U5-50
+Removed Pin From Net: NetName=BUTTON_DOWN Pin=U5-51
+Removed Pin From Net: NetName=BUTTON_OK Pin=U5-60
+Removed Pin From Net: NetName=BUTTON_UP Pin=U5-61
+Removed Pin From Net: NetName=ETH_CON_LED Pin=U5-62
+Removed Pin From Net: NetName=PW_SDA Pin=U5-63
+Removed Pin From Net: NetName=PW_SCL Pin=U5-64
+Removed Pin From Net: NetName=NetC18_1 Pin=Y3-1
+Removed Pin From Net: NetName=NetC19_1 Pin=Y3-2
+Removed Member From Class: ClassName=DMP_SEM_MCU Member=Y3
+Change Component Comment : Designator=C18 Old Comment=22pF New Comment=12pF
+Change Component Comment : Designator=C19 Old Comment=22pF New Comment=12pF
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAPC1005X55N"; UniqueID = "\TGILNOXR" ("\TGILNOXR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM1555C1H120JA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm1555c1h120ja01d/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM1555C1H120JA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM1555C1H120JA1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM1555C1H120JA01D?qs=to8XolpOzrOCHudLswyzbw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAPC1005X55N"; UniqueID = "\DERVOZYJ" ("\DERVOZYJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM1555C1H120JA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm1555c1h120ja01d/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM1555C1H120JA01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM1555C1H120JA1D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM1555C1H120JA01D?qs=to8XolpOzrOCHudLswyzbw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(ABM8W480000MHZ6D1XT3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ABM8W-12.0000MHZ-6-B1U-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/abm8w12.0000mhz6b1ut3/abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.abracon.com/Resonators/ABM8W.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ABRACON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ABM8W-12.0000MHZ-6-B1U-T3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "815-8W12-6B1UT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM8W-120000MHZ-6-B1U-T3?qs=5aG0NVq1C4wmLirByrVjhQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PW_SDA Pin=U5-1
+Added Pin To Net: NetName=PW_SCL Pin=U5-2
+Added Pin To Net: NetName=NetC18_1 Pin=U5-49
+Added Pin To Net: NetName=NetC19_1 Pin=U5-50
+Added Pin To Net: NetName=EVENT Pin=U5-51
+Added Pin To Net: NetName=ZCD Pin=U5-60
+Added Pin To Net: NetName=BUTTON_DOWN Pin=U5-61
+Added Pin To Net: NetName=BUTTON_OK Pin=U5-62
+Added Pin To Net: NetName=BUTTON_UP Pin=U5-63
+Added Pin To Net: NetName=ETH_CON_LED Pin=U5-64
+Added Pin To Net: NetName=NetC18_1 Pin=Y2-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=NetC19_1 Pin=Y2-3
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component Y2 ABM8W-12.0000MHZ-6-B1U-T3

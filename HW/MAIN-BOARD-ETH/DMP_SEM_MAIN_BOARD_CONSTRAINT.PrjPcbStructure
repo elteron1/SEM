@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=DMP_SEM_ETHERNET.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=DMP_SEM_ETHERNET.SchDoc|FileName=DMP_SEM_MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=DMP_SEM_ETHERNET.SchDoc|FileName=DMP_SEM_POWER.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=DMP_SEM_ETHERNET.SchDoc|FileName=DMP_SEM_SDCARD.SchDoc|SheetNumber=4

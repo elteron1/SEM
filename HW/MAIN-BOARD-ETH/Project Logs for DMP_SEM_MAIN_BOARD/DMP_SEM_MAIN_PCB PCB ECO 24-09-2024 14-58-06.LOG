@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D_P Pin=D2-3
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=D_N Pin=D3-3
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=D3
+Added Pin To Net: NetName=D_N Pin=D2-3
+Added Pin To Net: NetName=D_P Pin=D2-4
+Added Member To Class: ClassName=DMP_SEM_ETHERNET Member=Component U4 KSZ8091RNACA-TR

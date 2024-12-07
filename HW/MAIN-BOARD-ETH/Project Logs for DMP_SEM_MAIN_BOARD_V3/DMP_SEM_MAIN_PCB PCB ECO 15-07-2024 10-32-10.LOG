@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=VCC Pin=R5-1
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R4
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R5

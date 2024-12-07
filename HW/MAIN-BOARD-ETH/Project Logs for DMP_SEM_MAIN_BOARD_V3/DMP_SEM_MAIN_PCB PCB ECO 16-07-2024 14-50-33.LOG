@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ1_A5 Pin=R2-1
+Removed Pin From Net: NetName=NetJ1_B5 Pin=R3-1
+Added Component: Designator=J1(GSB1C41110SSHR)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb1c41x10sshr-ax1.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GSB1C41110SSHR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A4
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=D_P Pin=J1-A6
+Added Pin To Net: NetName=D_N Pin=J1-A7
+Added Pin To Net: NetName=NetF1_1 Pin=J1-A9
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=D_P Pin=J1-B6
+Added Pin To Net: NetName=D_N Pin=J1-B7
+Added Pin To Net: NetName=NetC1_1 Pin=J1-MP1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-MP2
+Added Pin To Net: NetName=NetC1_1 Pin=J1-MP3
+Added Pin To Net: NetName=NetC1_1 Pin=J1-MP4
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2-1
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-1
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component J1 GSB1C41110SSHR

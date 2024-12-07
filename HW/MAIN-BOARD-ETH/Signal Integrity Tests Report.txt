@@ -1,0 +1,36 @@
+
+
+Falling Edge Overshoot
+
+The following nets have values outside defined tolerance levels :
+
+
+Falling Edge Undershoot
+
+The following nets have values outside defined tolerance levels :
+
+
+Rising Edge Overshoot
+
+The following nets have values outside defined tolerance levels :
+SD_CD           (Actual Value =  1.052  , Tolerance =  1.000  )
+
+
+Rising Edge Undershoot
+
+The following nets have values outside defined tolerance levels :
+
+
+The following nets were not able to be analysed :
+
+VCC
+VBUS
+NetC28_1
+NetC18_1
+NetC12_1
+GND
+D_P
+D_N
++5
+5V
+1V2

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=UU_RST Pin=U5-3
+Removed Pin From Net: NetName=BUTTON_OK Pin=U5-4
+Removed Pin From Net: NetName=BUTTON_UP Pin=U5-5
+Removed Pin From Net: NetName=BUTTON_DOWN Pin=U5-6
+Removed Pin From Net: NetName=EVENT Pin=U5-9
+Removed Pin From Net: NetName=ZCD Pin=U5-10
+Removed Pin From Net: NetName=USB_UART_TX Pin=U5-13
+Removed Pin From Net: NetName=USB_UART_RX Pin=U5-14
+Removed Pin From Net: NetName=DISPLAY_RST Pin=U5-42
+Removed Pin From Net: NetName=DISPLAY_DC Pin=U5-49
+Removed Pin From Net: NetName=DISPLAY_BLK Pin=U5-50
+Removed Pin From Net: NetName=DISPLAY_EN Pin=U5-51
+Added Pin To Net: NetName=USB_UART_TX Pin=J15-1
+Added Pin To Net: NetName=USB_UART_RX Pin=J15-2
+Added Pin To Net: NetName=ZCD Pin=U5-5
+Added Pin To Net: NetName=EVENT Pin=U5-6
+Added Pin To Net: NetName=DISPLAY_BLK Pin=U5-13
+Added Pin To Net: NetName=DISPLAY_DC Pin=U5-14
+Added Pin To Net: NetName=DISPLAY_RST Pin=U5-15
+Added Pin To Net: NetName=DISPLAY_EN Pin=U5-16
+Added Pin To Net: NetName=BUTTON_DOWN Pin=U5-49
+Added Pin To Net: NetName=BUTTON_UP Pin=U5-50
+Added Pin To Net: NetName=BUTTON_OK Pin=U5-51
+Added Pin To Net: NetName=UU_RST Pin=U5-61
+Added Pin To Net: NetName=USB_UART_TX Pin=U5-63
+Added Pin To Net: NetName=USB_UART_RX Pin=U5-64
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component C2 2.2uF

@@ -1,0 +1,22 @@
+Added Component: Designator=D5(PMEG3005AESFYL)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pesd3v3nw-sfyl/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PESD3V3NW-SF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3NW-SFYL?qs=P1JMDcb91o7V%252BTs8TRh1Ig%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D6(PMEG3005AESFYL)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pesd3v3nw-sfyl/nexperia?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://assets.nexperia.com/documents/data-sheet/PESD3V3NW-SF.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PESD3V3NW-SFYL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Nexperia/PESD3V3NW-SFYL?qs=P1JMDcb91o7V%252BTs8TRh1Ig%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_VOLTAGE Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=ADC_CURRENT Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component D5 PESD3V3NW-SFYL
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component D6 PESD3V3NW-SFYL

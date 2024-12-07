@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_UART_TX Pin=J15-1
+Removed Pin From Net: NetName=USB_UART_RX Pin=J15-2
+Added Pin To Net: NetName=UART_HEADER_RX Pin=J15-2
+Added Pin To Net: NetName=UART_HEADER_RX Pin=U5-64
+Added Net: Name=UART_HEADER_RX
+Added Pin To Net: NetName=UART_HEADER_TX Pin=J15-1
+Added Pin To Net: NetName=UART_HEADER_TX Pin=U5-63
+Added Net: Name=UART_HEADER_TX

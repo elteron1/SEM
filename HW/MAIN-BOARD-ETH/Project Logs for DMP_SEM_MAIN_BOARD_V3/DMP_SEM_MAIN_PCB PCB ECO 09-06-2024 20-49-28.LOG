@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=C53-2
+Removed Pin From Net: NetName=GND Pin=C54-2
+Removed Pin From Net: NetName=WIFI_RST Pin=R49-1
+Removed Pin From Net: NetName=GND Pin=R49-2
+Removed Pin From Net: NetName=VCC Pin=R50-2
+Removed Pin From Net: NetName=WIFI_MOSI Pin=R52-2
+Removed Pin From Net: NetName=WIFI_CS Pin=R53-2
+Removed Pin From Net: NetName=WIFI_MISO Pin=R54-2
+Removed Pin From Net: NetName=WIFI_CLK Pin=R55-2
+Removed Pin From Net: NetName=WIFI_EN Pin=R57-1
+Removed Pin From Net: NetName=GND Pin=R57-2

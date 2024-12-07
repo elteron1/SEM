@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=1V2 Pin=R6-1
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=1V2 Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R7-2
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R6
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R7

@@ -1,0 +1,93 @@
+Removed Pin From Net: NetName=ADC_CURRENT Pin=IC3-10
+Removed Pin From Net: NetName=ADC_VOLTAGE Pin=IC3-12
+Removed Member From Class: ClassName=DMP_SEM_MCU Member=C7
+Removed Member From Class: ClassName=DMP_SEM_ETHERNET Member=C11
+Removed Member From Class: ClassName=DMP_SEM_ADC Member=C15
+Removed Member From Class: ClassName=DMP_SEM_ETHERNET Member=C22
+Removed Member From Class: ClassName=DMP_SEM_ADC Member=R4
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R17
+Removed Member From Class: ClassName=DMP_SEM_SDCARD Member=R26
+Removed Member From Class: ClassName=DMP_SEM_SDCARD Member=R29
+Added Pin To Net: NetName=ADC_CURRENT Pin=IC3-6
+Added Pin To Net: NetName=ADC_VOLTAGE Pin=IC3-7
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component C8 10uF
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component C10 10uF
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component C12 100nF
+Added Member To Class: ClassName=DMP_SEM_MCU Member=Component C16 100nF
+Added Member To Class: ClassName=DMP_SEM_ADC Member=Component C23 12pF
+Added Member To Class: ClassName=DMP_SEM_ETHERNET Member=Component C25 100nF
+Added Member To Class: ClassName=DMP_SEM_ETHERNET Member=Component C29 100nF
+Added Member To Class: ClassName=DMP_SEM_ETHERNET Member=Component C33 12pF
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R4 10k
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R5 10k
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R6 47.5k
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R10 1k
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R11 22.1k
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R13 330
+Added Member To Class: ClassName=DMP_SEM_POWER Member=Component R15 1k
+Added Member To Class: ClassName=DMP_SEM_ADC Member=Component R16 2k
+Added Member To Class: ClassName=DMP_SEM_ETHERNET Member=Component R30 2k
+Added Member To Class: ClassName=DMP_SEM_SDCARD Member=Component R34 10k
+Added Member To Class: ClassName=DMP_SEM_SDCARD Member=Component R37 100k
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25
+Added Rule: Name=Schematic Supply Nets_26
+Added Rule: Name=Schematic Supply Nets_27
+Added Rule: Name=Schematic Supply Nets_28
+Added Rule: Name=Schematic Supply Nets_29
+Added Rule: Name=Schematic Supply Nets_30
+Added Rule: Name=Schematic Supply Nets_31
+Added Rule: Name=Schematic Supply Nets_32
+Added Rule: Name=Schematic Supply Nets_33
+Added Rule: Name=Schematic Supply Nets_34
+Added Rule: Name=Schematic Supply Nets_35
+Added Rule: Name=Schematic Supply Nets_36
+Added Rule: Name=Schematic Supply Nets_37
+Added Rule: Name=Schematic Supply Nets_38
+Added Rule: Name=Schematic Supply Nets_39
+Added Rule: Name=Schematic Supply Nets_40
+Added Rule: Name=Schematic Supply Nets_41
+Added Rule: Name=Schematic Supply Nets_42
+Added Rule: Name=Schematic Supply Nets_43
+Added Rule: Name=Schematic Supply Nets_44
+Added Rule: Name=Schematic Supply Nets_45
+Added Rule: Name=Schematic Supply Nets_46
+Added Rule: Name=Schematic Supply Nets_47
+Added Rule: Name=Schematic Supply Nets_48
+Added Rule: Name=Schematic Supply Nets_49
+Added Rule: Name=Schematic Supply Nets_50
+Added Rule: Name=Schematic Supply Nets_51
+Added Rule: Name=Schematic Supply Nets_52
+Added Rule: Name=Schematic Supply Nets_53
+Added Rule: Name=Schematic Supply Nets_54
+Added Rule: Name=Schematic Supply Nets_55
+Added Rule: Name=Schematic Supply Nets_56
+Added Rule: Name=Schematic Supply Nets_57
+Added Rule: Name=Schematic Supply Nets_58
+Added Rule: Name=Schematic Supply Nets_59
+Added Rule: Name=Schematic Supply Nets_60
+Added Rule: Name=Schematic Supply Nets_61

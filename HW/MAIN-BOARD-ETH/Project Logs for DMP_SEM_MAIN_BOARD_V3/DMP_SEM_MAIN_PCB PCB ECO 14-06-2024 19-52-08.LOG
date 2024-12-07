@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_UART_TX Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R14-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-17
+Added Net: Name=NetC7_1

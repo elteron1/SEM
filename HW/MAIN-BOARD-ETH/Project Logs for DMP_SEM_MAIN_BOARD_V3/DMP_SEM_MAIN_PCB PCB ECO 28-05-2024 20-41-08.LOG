@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=LED2-1
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=LED1
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=LED2
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R7
+Removed Member From Class: ClassName=DMP_SEM_POWER Member=R8
+Added Member To Class: ClassName=DMP_SEM_ADC Member=Component Y2 32.768kHz
